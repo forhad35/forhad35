@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+
     <h1 align="center">Hi 👋, I'm FORHAD ALI</h1>
 <h3 align="center">A passionate mobile app developer from Bangladesh</h3>
 
@@ -55,9 +48,7 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a> 
-            <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> -->
+        
              <a style="width: 100px; overflow: hidden; height: 40px;" href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png"
             alt="dart" width="40" height="40" /> </a> 
@@ -78,5 +69,3 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=forhad35&show_icons=true&locale=en" alt="forhad" /></p>
     
-</body>
-</html>
